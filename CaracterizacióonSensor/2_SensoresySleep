@@ -1,8 +1,9 @@
 /*
- * Dr. J.E. Solis-Perez <jsolisp@unam.mx>
- * Created: May 23, 2024
- * Modified: June 23, 2024
- */
+Autor: Mario García
+Programa ESP32 ADC Para distancia con potenciometro lineal y un sleep entre lecturas
+date created: 25/06/24
+last modified: 28/07/24
+*/
 
 #include <string.h>
 #include <sys/unistd.h>
